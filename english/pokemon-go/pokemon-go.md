@@ -7,3 +7,5 @@ One night, after quitting your job, you are dreaming of
 
 After all your travels you only managed to catch Ratata. It turns out the rarest
 Pokemon where in your city all along.
+
+Wait, there's a [Jigglypuff](../jigglypuff/jigglypuff.md) nearby!
